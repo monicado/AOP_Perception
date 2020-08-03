@@ -6,7 +6,11 @@ Sequence("Consent", "Counter", "Instructions",
 "Block1","break",
 "Block2", "break",
 "Block3", "break",
-"Block4", SendResults(),"EndScreen")
+"Block4", "break",
+"Block5", "break",
+"Block6", "break",
+"Block7", "break",
+"Block8", SendResults(),"EndScreen")
 
 // Preface
 newTrial("Consent",
@@ -63,7 +67,7 @@ newTrial("Instructions",
     .css({"font-size": "24px"})
     .print()
     ,
-    newText("instruct","<p>1. Each trial in this experiment will start with a sequence of numbers. Remember those numbers in order as best you can.</p> <p>2. Afterwards, you will be shown two images. Your job it to decide whether the second image you see is <i>exactly</i> the same as the first. Select <b>Yes</b> if the images were <i>exactly</i> the same, and <b>No</b> otherwise.</p><p>3. After you make your selection, you will be asked to type the numbers you saw into a box.</p><p>If you can't remember the numbers or if you can't remember the images, just take your best guess! You will be given the opportunity to take a short break at 4 different points in the study.</p>")
+    newText("instruct","<p>1. Each trial in this experiment will start with an image. Remember that image as best you can.</p> <p>2. Afterwards, you will see some simple math problems. Solve those as quickly as you can.</p><p>3. When you complete those, you will be shown a second image. Select <b>Yes</b> if the second image is <i>exactly</i> the same as the first, and <b>No</b> otherwise.</p><p>If you aren't sure about anything, just take your best guess! You will be given a few short breaks at different points in the study.</p>")
     .center()
     .print()
     ,
@@ -91,18 +95,6 @@ PennController.Template(
     ,
     row => newTrial("Block"+row.BlockID
     ,
-    newText("Numbers", row.Numbers)
-    .center()
-    .css({"font-size": "48px"})
-    .print()
-    ,
-    newTimer("Timer", 2000)
-    .start()
-    .wait()
-    ,
-    getText("Numbers")
-    .remove()
-    ,
     newImage("OGImage",row.OGFile)
     .settings.size(960, 540)
     .print()
@@ -114,9 +106,59 @@ PennController.Template(
     getImage("OGImage")
     .remove()
     ,
-    newTimer("InterImage", 500)
-    .start()
+    newText("Equation1", row.Equation1)
+    .center()
+    .css({"font-size": "48px"})
+    .print()
+    ,
+    newTextInput("Box1")
+    .once()
+    .center()
+    .print()
     .wait()
+    .log("final")
+    ,
+    getText("Equation1")
+    .remove()
+    ,
+    getTextInput("Box1")
+    .remove()
+    ,
+    newText("Equation2", row.Equation2)
+    .center()
+    .css({"font-size": "48px"})
+    .print()
+    ,
+    newTextInput("Box2")
+    .once()
+    .center()
+    .print()
+    .wait()
+    .log("final")
+    ,
+    getText("Equation2")
+    .remove()
+    ,
+    getTextInput("Box2")
+    .remove()
+    ,
+    newText("Equation3", row.Equation3)
+    .center()
+    .css({"font-size": "48px"})
+    .print()
+    ,
+    newTextInput("Box3")
+    .once()
+    .center()
+    .print()
+    .wait()
+    .log("final")
+    ,
+    getText("Equation3")
+    .remove()
+    ,
+    getTextInput("Box3")
+    .remove()
     ,
     newImage("ChangeImage",row.ChangeFile)
     .settings.size(960, 540)
@@ -147,24 +189,7 @@ PennController.Template(
     ,
     getText("Prompt")
     .remove()
-    ,
-    newText("EnterNumb", "Press <b>Enter</b> when you have finished entering the numbers.")
-    .print()
-    .center()
-    ,
-    newTextInput("Repeat")
-    .once()
-    .center()
-    .print()
-    .wait()
-    .log("final")
-    ,
-    getTextInput("Repeat")
-    .remove()
-    ,
-    getText("EnterNumb")
-    .remove()
-  )
+)
   .log( "List" , row.ListID)
   .log("ItemNumb", row.ItemNumb)
   .log("ItemID", row.OGItemID)
