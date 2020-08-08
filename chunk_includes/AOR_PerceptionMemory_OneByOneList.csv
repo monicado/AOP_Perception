@@ -8,7 +8,7 @@ ItemNumb,ListID,BlockID,Shape,Texture,Color,Size,OGItemID,OGFile,ChangeType,Chan
 7,1,1,Cube,Metallic,Red,Tiny,CubeMetallicRedTiny,CMRT.png,Size,Large,CubeMetallicRedLarge,CMRL.png,2587139,25 x 9,225,87 x 1,87,92 + 3,95
 8,1,1,Cylinder,Hairy,Blue,Small,CylinderHairyBlueSmall,LHBS.png,Color,Yellow,CylinderHairyYellowSmall,LHYS.png,6495823,64 x 3,192,95 x 8,760,36 + 2,38
 9,1,2,Sphere,Chalky,Purple,Tiny,SphereChalkyPurpleTiny,SCPT.png,NoChange,NoChange,SphereChalkyPurpleTiny,SCPT.png,8749321,87 x 1,87,49 x 3,147,18 + 2,20
-10,1,2,Cylinder,Hairy,Red,Tiny,CylinderHairyRedTiny,LHRT.png,Texture,Sandy,CylinderSandyRedTiny,LSRT.png,8492751,84 x 1,84,92 x 7,644,18 + 5,23
+10,1,2,Cylinder,Hairy,Red,Tiny,CylinderHairyRedTiny,LHRT.png,Texture,Chalky,CylinderChalkyRedTiny,LCRT.png,8492751,84 x 1,84,92 x 7,644,18 + 5,23
 11,1,2,Sphere,Chalky,Blue,Tiny,SphereChalkyBlueTiny,SCBT.png,Shape,Cube,CubeChalkyBlueTiny,CCBT.png,7148326,71 x 6,426,48 x 3,144,67 + 2,69
 12,1,2,Cube,Bumpy,Purple,Small,CubeBumpyPurpleSmall,CBPS.png,Color,Blue,CubeBumpyBlueSmall,CBBS.png,4612785,46 x 5,230,12 x 7,84,54 + 8,62
 13,1,2,Cylinder,Chalky,Purple,Small,CylinderChalkyPurpleSmall,LCPS.png,Size,Medium,CylinderChalkyPurpleMedium,LCPM.png,6871239,68 x 9,612,71 x 2,142,96 + 3,99
@@ -26,7 +26,7 @@ ItemNumb,ListID,BlockID,Shape,Texture,Color,Size,OGItemID,OGFile,ChangeType,Chan
 25,1,4,Cylinder,Hairy,Purple,Tiny,CylinderHairyPurpleTiny,LHPT.png,NoChange,NoChange,CylinderHairyPurpleTiny,LHPT.png,5279486,52 x 6,312,79 x 4,316,65 + 8,73
 26,1,4,Cube,Hairy,Blue,Small,CubeHairyBlueSmall,CHBS.png,Color,Purple,CubeHairyPurpleSmall,CHPS.png,4135682,41 x 2,82,35 x 6,210,24 + 8,32
 27,1,4,Cube,Metallic,Yellow,Tiny,CubeMetallicYellowTiny,CMYT.png,Shape,Sphere,SphereMetallicYellowTiny,SMYT.png,8653721,86 x 1,86,53 x 7,371,18 + 2,20
-28,1,4,Pyramid,Bumpy,Yellow,Small,PyramidBumpyYellowSmall,PBYS.png,Texture,Sandy,PyramidSandyYellowSmall,PSYS.png,7219534,72 x 4,288,19 x 5,95,47 + 3,50
+28,1,4,Pyramid,Bumpy,Yellow,Small,PyramidBumpyYellowSmall,PBYS.png,Texture,Chalky,PyramidChalkyYellowSmall,PCYS.png,7219534,72 x 4,288,19 x 5,95,47 + 3,50
 29,1,4,Pyramid,Hairy,Red,Medium,PyramidHairyRedMedium,PHRM.png,Size,Tiny,PyramidHairyRedTiny,PHRT.png,6458379,64 x 9,576,58 x 3,174,96 + 7,103
 30,1,4,Cylinder,Metallic,Blue,Medium,CylinderMetallicBlueMedium,LMBM.png,NoChange,NoChange,CylinderMetallicBlueMedium,LMBM.png,7319254,73 x 4,292,19 x 2,38,47 + 5,52
 31,1,4,Cylinder,Chalky,Blue,Large,CylinderChalkyBlueLarge,LCBL.png,Color,Red,CylinderChalkyRedLarge,LCRL.png,9432685,94 x 5,470,32 x 6,192,59 + 8,67
