@@ -1,8 +1,9 @@
-//PennController.DebugOff();
+PennController.DebugOff();
 PennController.ResetPrefix(null);
-PennController.PreloadZip("https://mondo1.dreamhosters.com/AOR_PerceptionMemory_StimImages.zip");
+PennController.PreloadZip("https://mondo1.dreamhosters.com/AOP_AllObjects_Transparent.zip");
 
 Sequence("Consent", "Counter", "Instructions",
+"PreloadImages",
 "Block1","break",
 "Block2", "break",
 "Block3", "break",
@@ -14,10 +15,15 @@ Sequence("Consent", "Counter", "Instructions",
 
 // Preface
 newTrial("Consent",
-    newText("Consent",
-    "<p>This study is being conducted by the Language Processing Lab at the University of Chicago.</p><p>You are invited to complete this experiment because you are an adult (18 years or older) and you are native speaker of American English (you learned English from birth and are a fluent speaker of English).</p><p>You may withdraw from this study at any time without penalty. However, make sure you have a reliable internet connection and are able to complete the study in one sitting as too many missed trials can affect payment.</p><p><b>This study takes approximately 30 minutes</b> and you will be paid $[[--]] for your participation.</p><p>By entering your MTurk, you agree that you are <b>at least 18 years of age, that you are a native speaker of American English, and that you understand these instructions and conditions of participation.</b></p>")
+    newText("InclusionCriteria", "<b>You must be at least 18 years of age & a native speaker of American English to participate in this study.</b>"
     .center()
+    .css({"font-size": "36px"})
     .print()
+    ,
+    newImage("Consent","https://mondo1.dreamhosters.com/MTurkOnlineConsent_English_45mins.jpg")
+    .settings.size(794, 1123)
+    .print()
+    .center()
     ,
     newCanvas("agree", 800, 400)
     .add(200, 0, newButton("Agree", "I agree"))
@@ -33,7 +39,7 @@ newTrial("Consent",
     getSelector("consentselect")
     .test.selected(getButton("Agree"))
     .success(
-        getText("Consent")
+        getImage("Consent")
         .remove()
         ,
         getSelector("consentselect")
@@ -43,7 +49,7 @@ newTrial("Consent",
         .remove()
         )
     .failure(
-        getText("Consent")
+        getImage("Consent")
         .remove()
         ,
         getSelector("consentselect")
@@ -86,11 +92,22 @@ newTrial("Instructions",
 
 SetCounter("Counter", "inc", 1)
 
+PennController.CheckPreloaded(5*60*1000) // wait up to 5 minutes for preload
+    .label("PreloadImages")
+
+const replacePreloadingMessage = ()=>{
+    const preloadingMessage = $(".PennController-PennController > div");
+    if (preloadingMessage.length > 0 && preloadingMessage[0].innerHTML.match(/^<p>Please wait while the resources are preloading/))
+        preloadingMessage.html("<p>Please wait while the experiment is loading. This may take a few minutes.</p>");
+    window.requestAnimationFrame( replacePreloadingMessage );
+};
+window.requestAnimationFrame( replacePreloadingMessage );
+
 // MAIN EXPERIMENT
 newTrial("break", newButton("Start next set").print().wait() )
 
 PennController.Template(
-    GetTable("AOR_PerceptionMemory_IbexList.csv")
+    GetTable("AOR_PerceptionMemory_OneByOneList.csv")
     .setGroupColumn( "ListID" )
     ,
     row => newTrial("Block"+row.BlockID
@@ -99,7 +116,7 @@ PennController.Template(
     .settings.size(960, 540)
     .print()
     ,
-    newTimer("ImageDuration",1000)
+    newTimer("ImageDuration",2000)
     .start()
     .wait()
     ,
@@ -193,6 +210,7 @@ PennController.Template(
   .log( "List" , row.ListID)
   .log("ItemNumb", row.ItemNumb)
   .log("ItemID", row.OGItemID)
+  .log("ChangeID", row.ChangeItemID)
   .log( "Condition", row.ChangeType)
 );
 
@@ -201,8 +219,9 @@ PennController.SendResults();
 
  // END THANK YOU
  newTrial("EndScreen",
-     newText("<p>Thank you for your participation! If you have questions about this research you may contact the researcher Dr. Monica Do at monicado@uchicago.edu.</p><p><b>Please enter the following code on mturk to receive credit: 82442240 </b></p>")
+     newText("<p>Thank you for your participation! If you have questions about this research you may contact the researcher Dr. Monica Do at monicado@uchicago.edu.</p><p><b>Please enter the following code on mturk to receive credit: 846305628 </b></p>")
          .print()
+         .center()
      ,
      newButton("void")
          .wait()
