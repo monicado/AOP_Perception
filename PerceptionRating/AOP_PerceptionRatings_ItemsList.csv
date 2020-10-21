@@ -1,0 +1,469 @@
+ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2,Order1Side,PhraseLeft,PhraseRight
+1,1,fill,Fill1,StrongPref,,,,pots and pans,pans and pots,L,pots and pans,pans and pots
+2,1,fill,Fill2,StrongPref,,,,absolutely positively,positively absolutely,R,positively absolutely,absolutely positively
+3,1,targ,ColMat_3,ColMat,boa,yellow,feather,yellow feather boa,feather yellow boa,L,yellow feather boa,feather yellow boa
+4,1,fill,Fill3,Neutral,,,,laugh and talk,talk and laugh,R,talk and laugh,laugh and talk
+5,1,targ,ShaMat_2,ShaMat,table,square,wood,square wood table,wood square table,L,square wood table,wood square table
+6,1,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
+7,1,fill,Fill5,StrongPref,,,,above and beyond,beyond and above,L,above and beyond,beyond and above
+8,1,targ,ColSiz_2,ColSiz,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+9,1,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
+10,1,targ,ShaMat_5,ShaMat,lot,circular,cement,circular cement lot,cement circular lot,L,circular cement lot,cement circular lot
+11,1,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
+12,1,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
+13,1,fill,Fill8,Neutral,,,,should'a would'a,would'a should'a,R,would'a should'a,should'a would'a
+14,1,targ,ShaMat_3,ShaMat,sculpture,wavy,steel,wavy steel sculpture,steel wavy sculpture,R,steel wavy sculpture,wavy steel sculpture
+15,1,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
+16,1,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
+17,1,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
+18,1,targ,ColSha_1,ColSha,vase,blue,square,blue square vase,square blue vase,R,square blue vase,blue square vase
+19,1,targ,ColMat_1,ColMat,jacket,scarlet,leather,scarlet leather jacket,leather scarlet jacket,L,scarlet leather jacket,leather scarlet jacket
+20,1,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
+21,1,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
+22,1,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
+23,1,targ,ColSiz_4,ColSiz,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+24,1,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
+25,1,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
+26,1,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
+27,1,fill,Fill15,StrongPref,,,,hide and run,run and hide,L,hide and run,run and hide
+28,1,fill,Fill16,StrongPref,,,,here and now,now and here,L,here and now,now and here
+29,1,fill,Fill17,StrongPref,,,,cats and dogs,dogs and cats,L,cats and dogs,dogs and cats
+30,1,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
+31,1,fill,Fill18,Neutral,,,,girls and boys,boys and girls,R,boys and girls,girls and boys
+32,1,fill,Fill19,Neutral,,,,near and far,far and near,L,near and far,far and near
+33,1,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
+34,1,targ,ColMat_2,ColMat,dress,pink,silk,pink silk dress,silk pink dress,R,silk pink dress,pink silk dress
+35,1,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
+36,1,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
+37,1,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
+38,1,targ,ColSiz_1,ColSiz,house,green,big,green big house,big green house,R,big green house,green big house
+39,1,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
+40,1,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
+41,1,fill,Fill24,StrongPref,,,,take and give,give and take,L,take and give,give and take
+42,1,fill,Fill25,Neutral,,,,thunder and lightning,lightning and thunder,L,thunder and lightning,lightning and thunder
+43,1,fill,Fill26,StrongPref,,,,oil and vinegar,vinegar and oil,R,vinegar and oil,oil and vinegar
+44,1,targ,ColSiz_3,ColSiz,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+45,1,fill,Fill27,StrongPref,,,,slip and slide,slide and slip,R,slide and slip,slip and slide
+46,1,fill,Fill28,Neutral,,,,right and left,left and right,R,left and right,right and left
+47,1,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
+48,1,fill,Fill29,StrongPref,,,,shove and push,push and shove,L,shove and push,push and shove
+49,1,fill,Fill30,StrongPref,,,,truly really,really truly,L,truly really,really truly
+50,1,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
+51,1,fill,Fill32,StrongPref,,,,definitely maybe ,maybe definitely,L,definitely maybe ,maybe definitely
+52,1,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
+53,1,targ,ColSiz_5,ColSiz,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+54,1,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
+55,1,targ,SizMat_2,SizMat,cloak,long,velvet,long velvet cloak,velvet long cloak,L,long velvet cloak,velvet long cloak
+56,1,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
+57,1,fill,Fill35,Neutral,,,,not probably,probably not,L,not probably,probably not
+58,1,targ,ShaMat_1,ShaMat,plate,oval,porcelain,oval porcelain plate,porcelain oval plate,L,oval porcelain plate,porcelain oval plate
+59,1,fill,Fill36,StrongPref,,,,away and up,up and away,R,up and away,away and up
+60,1,fill,Fill37,Neutral,,,,throw and catch,catch and throw,L,throw and catch,catch and throw
+61,1,targ,SizSha_3,SizSha,staircase,enormous,spiral,enormous spiral staircase,spiral enormous staircase,R,spiral enormous staircase,enormous spiral staircase
+62,1,fill,Fill38,StrongPref,,,,this or that,that or this,R,that or this,this or that
+63,1,fill,Fill39,StrongPref,,,,go and come,come and go,R,come and go,go and come
+64,1,fill,Fill40,StrongPref,,,,hugs and kisses,kisses and hugs,L,hugs and kisses,kisses and hugs
+65,1,targ,ColMat_4,ColMat,sweater,navy,wool,navy wool sweater,wool navy sweater,R,wool navy sweater,navy wool sweater
+66,1,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
+67,1,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
+68,1,targ,ShaMat_4,ShaMat,ball,round,rubber,round rubber ball,rubber round ball,R,rubber round ball,round rubber ball
+69,1,targ,SizMat_1,SizMat,socks,little,cotton,little cotton socks,cotton little socks,R,cotton little socks,little cotton socks
+70,1,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
+71,1,targ,ColSha_5,ColSha,sticker,purple,star-shaped,purple star-shaped sticker,star-shaped purple sticker,R,star-shaped purple sticker,purple star-shaped sticker
+72,1,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
+73,1,targ,ColMat_5,ColMat,bottle,orange,plastic,orange plastic bottle,plastic orange bottle,L,orange plastic bottle,plastic orange bottle
+74,1,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
+75,1,targ,SizSha_5,SizSha,cake,massive,triangular,massive triangular cake,triangular massive cake,L,massive triangular cake,triangular massive cake
+76,1,fill,Fill46,StrongPref,,,,never maybe,maybe never,R,maybe never,never maybe
+77,1,fill,Fill47,Neutral,,,,always and forever,forever and always,R,forever and always,always and forever
+78,1,fill,Fill48,StrongPref,,,,pepper and salt,salt and pepper,R,salt and pepper,pepper and salt
+1,2,fill,Fill1,StrongPref,,,,pots and pans,pans and pots,L,pots and pans,pans and pots
+2,2,fill,Fill2,StrongPref,,,,absolutely positively,positively absolutely,R,positively absolutely,absolutely positively
+3,2,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
+4,2,fill,Fill3,Neutral,,,,laugh and talk,talk and laugh,R,talk and laugh,laugh and talk
+5,2,targ,ColSiz_2,ColSiz,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+6,2,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
+7,2,fill,Fill5,StrongPref,,,,above and beyond,beyond and above,L,above and beyond,beyond and above
+8,2,targ,ColMat_2,ColMat,dress,pink,silk,pink silk dress,silk pink dress,R,silk pink dress,pink silk dress
+9,2,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
+10,2,targ,ColSiz_5,ColSiz,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+11,2,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
+12,2,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
+13,2,fill,Fill8,Neutral,,,,should'a would'a,would'a should'a,R,would'a should'a,should'a would'a
+14,2,targ,ColSiz_3,ColSiz,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+15,2,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
+16,2,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
+17,2,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
+18,2,targ,ShaMat_1,ShaMat,plate,oval,porcelain,oval porcelain plate,porcelain oval plate,L,oval porcelain plate,porcelain oval plate
+19,2,targ,SizMat_1,SizMat,socks,little,cotton,little cotton socks,cotton little socks,R,cotton little socks,little cotton socks
+20,2,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
+21,2,targ,ShaMat_4,ShaMat,ball,round,rubber,round rubber ball,rubber round ball,R,rubber round ball,round rubber ball
+22,2,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
+23,2,targ,ColMat_4,ColMat,sweater,navy,wool,navy wool sweater,wool navy sweater,R,wool navy sweater,navy wool sweater
+24,2,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
+25,2,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
+26,2,targ,SizSha_3,SizSha,staircase,enormous,spiral,enormous spiral staircase,spiral enormous staircase,R,spiral enormous staircase,enormous spiral staircase
+27,2,fill,Fill15,StrongPref,,,,hide and run,run and hide,L,hide and run,run and hide
+28,2,fill,Fill16,StrongPref,,,,here and now,now and here,L,here and now,now and here
+29,2,fill,Fill17,StrongPref,,,,cats and dogs,dogs and cats,L,cats and dogs,dogs and cats
+30,2,targ,SizSha_5,SizSha,cake,massive,triangular,massive triangular cake,triangular massive cake,L,massive triangular cake,triangular massive cake
+31,2,fill,Fill18,Neutral,,,,girls and boys,boys and girls,R,boys and girls,girls and boys
+32,2,fill,Fill19,Neutral,,,,near and far,far and near,L,near and far,far and near
+33,2,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
+34,2,targ,SizMat_2,SizMat,cloak,long,velvet,long velvet cloak,velvet long cloak,L,long velvet cloak,velvet long cloak
+35,2,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
+36,2,targ,ShaMat_2,ShaMat,table,square,wood,square wood table,wood square table,L,square wood table,wood square table
+37,2,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
+38,2,targ,ColMat_1,ColMat,jacket,scarlet,leather,scarlet leather jacket,leather scarlet jacket,L,scarlet leather jacket,leather scarlet jacket
+39,2,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
+40,2,targ,ColSha_1,ColSha,vase,blue,square,blue square vase,square blue vase,R,square blue vase,blue square vase
+41,2,fill,Fill24,StrongPref,,,,take and give,give and take,L,take and give,give and take
+42,2,fill,Fill25,Neutral,,,,thunder and lightning,lightning and thunder,L,thunder and lightning,lightning and thunder
+43,2,fill,Fill26,StrongPref,,,,oil and vinegar,vinegar and oil,R,vinegar and oil,oil and vinegar
+44,2,targ,ColMat_3,ColMat,boa,yellow,feather,yellow feather boa,feather yellow boa,L,yellow feather boa,feather yellow boa
+45,2,fill,Fill27,StrongPref,,,,slip and slide,slide and slip,R,slide and slip,slip and slide
+46,2,fill,Fill28,Neutral,,,,right and left,left and right,R,left and right,right and left
+47,2,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
+48,2,fill,Fill29,StrongPref,,,,shove and push,push and shove,L,shove and push,push and shove
+49,2,fill,Fill30,StrongPref,,,,truly really,really truly,L,truly really,really truly
+50,2,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
+51,2,fill,Fill32,StrongPref,,,,definitely maybe ,maybe definitely,L,definitely maybe ,maybe definitely
+52,2,targ,ShaMat_3,ShaMat,sculpture,wavy,steel,wavy steel sculpture,steel wavy sculpture,R,steel wavy sculpture,wavy steel sculpture
+53,2,targ,ColMat_5,ColMat,bottle,orange,plastic,orange plastic bottle,plastic orange bottle,L,orange plastic bottle,plastic orange bottle
+54,2,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
+55,2,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
+56,2,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
+57,2,fill,Fill35,Neutral,,,,not probably,probably not,L,not probably,probably not
+58,2,targ,ColSiz_1,ColSiz,house,green,big,green big house,big green house,R,big green house,green big house
+59,2,fill,Fill36,StrongPref,,,,away and up,up and away,R,up and away,away and up
+60,2,fill,Fill37,Neutral,,,,throw and catch,catch and throw,L,throw and catch,catch and throw
+61,2,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
+62,2,fill,Fill38,StrongPref,,,,this or that,that or this,R,that or this,this or that
+63,2,fill,Fill39,StrongPref,,,,go and come,come and go,R,come and go,go and come
+64,2,fill,Fill40,StrongPref,,,,hugs and kisses,kisses and hugs,L,hugs and kisses,kisses and hugs
+65,2,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
+66,2,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
+67,2,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
+68,2,targ,ColSiz_4,ColSiz,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+69,2,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
+70,2,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
+71,2,targ,ShaMat_5,ShaMat,lot,circular,cement,circular cement lot,cement circular lot,L,circular cement lot,cement circular lot
+72,2,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
+73,2,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
+74,2,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
+75,2,targ,ColSha_5,ColSha,sticker,purple,star-shaped,purple star-shaped sticker,star-shaped purple sticker,R,star-shaped purple sticker,purple star-shaped sticker
+76,2,fill,Fill46,StrongPref,,,,never maybe,maybe never,R,maybe never,never maybe
+77,2,fill,Fill47,Neutral,,,,always and forever,forever and always,R,forever and always,always and forever
+78,2,fill,Fill48,StrongPref,,,,pepper and salt,salt and pepper,R,salt and pepper,pepper and salt
+1,3,fill,Fill1,StrongPref,,,,pots and pans,pans and pots,L,pots and pans,pans and pots
+2,3,fill,Fill2,StrongPref,,,,absolutely positively,positively absolutely,R,positively absolutely,absolutely positively
+3,3,targ,SizSha_3,SizSha,staircase,enormous,spiral,enormous spiral staircase,spiral enormous staircase,R,spiral enormous staircase,enormous spiral staircase
+4,3,fill,Fill3,Neutral,,,,laugh and talk,talk and laugh,R,talk and laugh,laugh and talk
+5,3,targ,ColMat_2,ColMat,dress,pink,silk,pink silk dress,silk pink dress,R,silk pink dress,pink silk dress
+6,3,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
+7,3,fill,Fill5,StrongPref,,,,above and beyond,beyond and above,L,above and beyond,beyond and above
+8,3,targ,SizMat_2,SizMat,cloak,long,velvet,long velvet cloak,velvet long cloak,L,long velvet cloak,velvet long cloak
+9,3,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
+10,3,targ,ColMat_5,ColMat,bottle,orange,plastic,orange plastic bottle,plastic orange bottle,L,orange plastic bottle,plastic orange bottle
+11,3,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
+12,3,targ,ShaMat_2,ShaMat,table,square,wood,square wood table,wood square table,L,square wood table,wood square table
+13,3,fill,Fill8,Neutral,,,,should'a would'a,would'a should'a,R,would'a should'a,should'a would'a
+14,3,targ,ColMat_3,ColMat,boa,yellow,feather,yellow feather boa,feather yellow boa,L,yellow feather boa,feather yellow boa
+15,3,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
+16,3,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
+17,3,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
+18,3,targ,ColSiz_1,ColSiz,house,green,big,green big house,big green house,R,big green house,green big house
+19,3,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
+20,3,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
+21,3,targ,ColSiz_4,ColSiz,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+22,3,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
+23,3,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
+24,3,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
+25,3,targ,ShaMat_4,ShaMat,ball,round,rubber,round rubber ball,rubber round ball,R,rubber round ball,round rubber ball
+26,3,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
+27,3,fill,Fill15,StrongPref,,,,hide and run,run and hide,L,hide and run,run and hide
+28,3,fill,Fill16,StrongPref,,,,here and now,now and here,L,here and now,now and here
+29,3,fill,Fill17,StrongPref,,,,cats and dogs,dogs and cats,L,cats and dogs,dogs and cats
+30,3,targ,ColSha_5,ColSha,sticker,purple,star-shaped,purple star-shaped sticker,star-shaped purple sticker,R,star-shaped purple sticker,purple star-shaped sticker
+31,3,fill,Fill18,Neutral,,,,girls and boys,boys and girls,R,boys and girls,girls and boys
+32,3,fill,Fill19,Neutral,,,,near and far,far and near,L,near and far,far and near
+33,3,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
+34,3,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
+35,3,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
+36,3,targ,ColSiz_2,ColSiz,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+37,3,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
+38,3,targ,SizMat_1,SizMat,socks,little,cotton,little cotton socks,cotton little socks,R,cotton little socks,little cotton socks
+39,3,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
+40,3,targ,ShaMat_1,ShaMat,plate,oval,porcelain,oval porcelain plate,porcelain oval plate,L,oval porcelain plate,porcelain oval plate
+41,3,fill,Fill24,StrongPref,,,,take and give,give and take,L,take and give,give and take
+42,3,fill,Fill25,Neutral,,,,thunder and lightning,lightning and thunder,L,thunder and lightning,lightning and thunder
+43,3,fill,Fill26,StrongPref,,,,oil and vinegar,vinegar and oil,R,vinegar and oil,oil and vinegar
+44,3,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
+45,3,fill,Fill27,StrongPref,,,,slip and slide,slide and slip,R,slide and slip,slip and slide
+46,3,fill,Fill28,Neutral,,,,right and left,left and right,R,left and right,right and left
+47,3,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
+48,3,fill,Fill29,StrongPref,,,,shove and push,push and shove,L,shove and push,push and shove
+49,3,fill,Fill30,StrongPref,,,,truly really,really truly,L,truly really,really truly
+50,3,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
+51,3,fill,Fill32,StrongPref,,,,definitely maybe ,maybe definitely,L,definitely maybe ,maybe definitely
+52,3,targ,ColSiz_3,ColSiz,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+53,3,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
+54,3,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
+55,3,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
+56,3,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
+57,3,fill,Fill35,Neutral,,,,not probably,probably not,L,not probably,probably not
+58,3,targ,ColMat_1,ColMat,jacket,scarlet,leather,scarlet leather jacket,leather scarlet jacket,L,scarlet leather jacket,leather scarlet jacket
+59,3,fill,Fill36,StrongPref,,,,away and up,up and away,R,up and away,away and up
+60,3,fill,Fill37,Neutral,,,,throw and catch,catch and throw,L,throw and catch,catch and throw
+61,3,targ,ShaMat_3,ShaMat,sculpture,wavy,steel,wavy steel sculpture,steel wavy sculpture,R,steel wavy sculpture,wavy steel sculpture
+62,3,fill,Fill38,StrongPref,,,,this or that,that or this,R,that or this,this or that
+63,3,fill,Fill39,StrongPref,,,,go and come,come and go,R,come and go,go and come
+64,3,fill,Fill40,StrongPref,,,,hugs and kisses,kisses and hugs,L,hugs and kisses,kisses and hugs
+65,3,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
+66,3,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
+67,3,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
+68,3,targ,ColMat_4,ColMat,sweater,navy,wool,navy wool sweater,wool navy sweater,R,wool navy sweater,navy wool sweater
+69,3,targ,ColSha_1,ColSha,vase,blue,square,blue square vase,square blue vase,R,square blue vase,blue square vase
+70,3,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
+71,3,targ,ColSiz_5,ColSiz,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+72,3,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
+73,3,targ,SizSha_5,SizSha,cake,massive,triangular,massive triangular cake,triangular massive cake,L,massive triangular cake,triangular massive cake
+74,3,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
+75,3,targ,ShaMat_5,ShaMat,lot,circular,cement,circular cement lot,cement circular lot,L,circular cement lot,cement circular lot
+76,3,fill,Fill46,StrongPref,,,,never maybe,maybe never,R,maybe never,never maybe
+77,3,fill,Fill47,Neutral,,,,always and forever,forever and always,R,forever and always,always and forever
+78,3,fill,Fill48,StrongPref,,,,pepper and salt,salt and pepper,R,salt and pepper,pepper and salt
+1,4,fill,Fill1,StrongPref,,,,pots and pans,pans and pots,L,pots and pans,pans and pots
+2,4,fill,Fill2,StrongPref,,,,absolutely positively,positively absolutely,R,positively absolutely,absolutely positively
+3,4,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
+4,4,fill,Fill3,Neutral,,,,laugh and talk,talk and laugh,R,talk and laugh,laugh and talk
+5,4,targ,SizMat_2,SizMat,cloak,long,velvet,long velvet cloak,velvet long cloak,L,long velvet cloak,velvet long cloak
+6,4,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
+7,4,fill,Fill5,StrongPref,,,,above and beyond,beyond and above,L,above and beyond,beyond and above
+8,4,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
+9,4,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
+10,4,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
+11,4,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
+12,4,targ,ColSiz_2,ColSiz,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+13,4,fill,Fill8,Neutral,,,,should'a would'a,would'a should'a,R,would'a should'a,should'a would'a
+14,4,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
+15,4,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
+16,4,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
+17,4,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
+18,4,targ,ColMat_1,ColMat,jacket,scarlet,leather,scarlet leather jacket,leather scarlet jacket,L,scarlet leather jacket,leather scarlet jacket
+19,4,targ,ColSha_1,ColSha,vase,blue,square,blue square vase,square blue vase,R,square blue vase,blue square vase
+20,4,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
+21,4,targ,ColMat_4,ColMat,sweater,navy,wool,navy wool sweater,wool navy sweater,R,wool navy sweater,navy wool sweater
+22,4,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
+23,4,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
+24,4,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
+25,4,targ,ColSiz_4,ColSiz,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+26,4,targ,ShaMat_3,ShaMat,sculpture,wavy,steel,wavy steel sculpture,steel wavy sculpture,R,steel wavy sculpture,wavy steel sculpture
+27,4,fill,Fill15,StrongPref,,,,hide and run,run and hide,L,hide and run,run and hide
+28,4,fill,Fill16,StrongPref,,,,here and now,now and here,L,here and now,now and here
+29,4,fill,Fill17,StrongPref,,,,cats and dogs,dogs and cats,L,cats and dogs,dogs and cats
+30,4,targ,ShaMat_5,ShaMat,lot,circular,cement,circular cement lot,cement circular lot,L,circular cement lot,cement circular lot
+31,4,fill,Fill18,Neutral,,,,girls and boys,boys and girls,R,boys and girls,girls and boys
+32,4,fill,Fill19,Neutral,,,,near and far,far and near,L,near and far,far and near
+33,4,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
+34,4,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
+35,4,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
+36,4,targ,ColMat_2,ColMat,dress,pink,silk,pink silk dress,silk pink dress,R,silk pink dress,pink silk dress
+37,4,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
+38,4,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
+39,4,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
+40,4,targ,ColSiz_1,ColSiz,house,green,big,green big house,big green house,R,big green house,green big house
+41,4,fill,Fill24,StrongPref,,,,take and give,give and take,L,take and give,give and take
+42,4,fill,Fill25,Neutral,,,,thunder and lightning,lightning and thunder,L,thunder and lightning,lightning and thunder
+43,4,fill,Fill26,StrongPref,,,,oil and vinegar,vinegar and oil,R,vinegar and oil,oil and vinegar
+44,4,targ,SizSha_3,SizSha,staircase,enormous,spiral,enormous spiral staircase,spiral enormous staircase,R,spiral enormous staircase,enormous spiral staircase
+45,4,fill,Fill27,StrongPref,,,,slip and slide,slide and slip,R,slide and slip,slip and slide
+46,4,fill,Fill28,Neutral,,,,right and left,left and right,R,left and right,right and left
+47,4,targ,ShaMat_4,ShaMat,ball,round,rubber,round rubber ball,rubber round ball,R,rubber round ball,round rubber ball
+48,4,fill,Fill29,StrongPref,,,,shove and push,push and shove,L,shove and push,push and shove
+49,4,fill,Fill30,StrongPref,,,,truly really,really truly,L,truly really,really truly
+50,4,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
+51,4,fill,Fill32,StrongPref,,,,definitely maybe ,maybe definitely,L,definitely maybe ,maybe definitely
+52,4,targ,ColMat_3,ColMat,boa,yellow,feather,yellow feather boa,feather yellow boa,L,yellow feather boa,feather yellow boa
+53,4,targ,SizSha_5,SizSha,cake,massive,triangular,massive triangular cake,triangular massive cake,L,massive triangular cake,triangular massive cake
+54,4,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
+55,4,targ,ShaMat_2,ShaMat,table,square,wood,square wood table,wood square table,L,square wood table,wood square table
+56,4,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
+57,4,fill,Fill35,Neutral,,,,not probably,probably not,L,not probably,probably not
+58,4,targ,SizMat_1,SizMat,socks,little,cotton,little cotton socks,cotton little socks,R,cotton little socks,little cotton socks
+59,4,fill,Fill36,StrongPref,,,,away and up,up and away,R,up and away,away and up
+60,4,fill,Fill37,Neutral,,,,throw and catch,catch and throw,L,throw and catch,catch and throw
+61,4,targ,ColSiz_3,ColSiz,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+62,4,fill,Fill38,StrongPref,,,,this or that,that or this,R,that or this,this or that
+63,4,fill,Fill39,StrongPref,,,,go and come,come and go,R,come and go,go and come
+64,4,fill,Fill40,StrongPref,,,,hugs and kisses,kisses and hugs,L,hugs and kisses,kisses and hugs
+65,4,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
+66,4,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
+67,4,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
+68,4,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
+69,4,targ,ShaMat_1,ShaMat,plate,oval,porcelain,oval porcelain plate,porcelain oval plate,L,oval porcelain plate,porcelain oval plate
+70,4,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
+71,4,targ,ColMat_5,ColMat,bottle,orange,plastic,orange plastic bottle,plastic orange bottle,L,orange plastic bottle,plastic orange bottle
+72,4,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
+73,4,targ,ColSha_5,ColSha,sticker,purple,star-shaped,purple star-shaped sticker,star-shaped purple sticker,R,star-shaped purple sticker,purple star-shaped sticker
+74,4,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
+75,4,targ,ColSiz_5,ColSiz,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+76,4,fill,Fill46,StrongPref,,,,never maybe,maybe never,R,maybe never,never maybe
+77,4,fill,Fill47,Neutral,,,,always and forever,forever and always,R,forever and always,always and forever
+78,4,fill,Fill48,StrongPref,,,,pepper and salt,salt and pepper,R,salt and pepper,pepper and salt
+1,5,fill,Fill1,StrongPref,,,,pots and pans,pans and pots,L,pots and pans,pans and pots
+2,5,fill,Fill2,StrongPref,,,,absolutely positively,positively absolutely,R,positively absolutely,absolutely positively
+3,5,targ,ShaMat_3,ShaMat,sculpture,wavy,steel,wavy steel sculpture,steel wavy sculpture,R,steel wavy sculpture,wavy steel sculpture
+4,5,fill,Fill3,Neutral,,,,laugh and talk,talk and laugh,R,talk and laugh,laugh and talk
+5,5,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
+6,5,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
+7,5,fill,Fill5,StrongPref,,,,above and beyond,beyond and above,L,above and beyond,beyond and above
+8,5,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
+9,5,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
+10,5,targ,SizSha_5,SizSha,cake,massive,triangular,massive triangular cake,triangular massive cake,L,massive triangular cake,triangular massive cake
+11,5,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
+12,5,targ,ColMat_2,ColMat,dress,pink,silk,pink silk dress,silk pink dress,R,silk pink dress,pink silk dress
+13,5,fill,Fill8,Neutral,,,,should'a would'a,would'a should'a,R,would'a should'a,should'a would'a
+14,5,targ,SizSha_3,SizSha,staircase,enormous,spiral,enormous spiral staircase,spiral enormous staircase,R,spiral enormous staircase,enormous spiral staircase
+15,5,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
+16,5,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
+17,5,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
+18,5,targ,SizMat_1,SizMat,socks,little,cotton,little cotton socks,cotton little socks,R,cotton little socks,little cotton socks
+19,5,targ,ShaMat_1,ShaMat,plate,oval,porcelain,oval porcelain plate,porcelain oval plate,L,oval porcelain plate,porcelain oval plate
+20,5,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
+21,5,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
+22,5,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
+23,5,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
+24,5,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
+25,5,targ,ColMat_4,ColMat,sweater,navy,wool,navy wool sweater,wool navy sweater,R,wool navy sweater,navy wool sweater
+26,5,targ,ColSiz_3,ColSiz,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+27,5,fill,Fill15,StrongPref,,,,hide and run,run and hide,L,hide and run,run and hide
+28,5,fill,Fill16,StrongPref,,,,here and now,now and here,L,here and now,now and here
+29,5,fill,Fill17,StrongPref,,,,cats and dogs,dogs and cats,L,cats and dogs,dogs and cats
+30,5,targ,ColSiz_5,ColSiz,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+31,5,fill,Fill18,Neutral,,,,girls and boys,boys and girls,R,boys and girls,girls and boys
+32,5,fill,Fill19,Neutral,,,,near and far,far and near,L,near and far,far and near
+33,5,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
+34,5,targ,ShaMat_2,ShaMat,table,square,wood,square wood table,wood square table,L,square wood table,wood square table
+35,5,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
+36,5,targ,SizMat_2,SizMat,cloak,long,velvet,long velvet cloak,velvet long cloak,L,long velvet cloak,velvet long cloak
+37,5,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
+38,5,targ,ColSha_1,ColSha,vase,blue,square,blue square vase,square blue vase,R,square blue vase,blue square vase
+39,5,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
+40,5,targ,ColMat_1,ColMat,jacket,scarlet,leather,scarlet leather jacket,leather scarlet jacket,L,scarlet leather jacket,leather scarlet jacket
+41,5,fill,Fill24,StrongPref,,,,take and give,give and take,L,take and give,give and take
+42,5,fill,Fill25,Neutral,,,,thunder and lightning,lightning and thunder,L,thunder and lightning,lightning and thunder
+43,5,fill,Fill26,StrongPref,,,,oil and vinegar,vinegar and oil,R,vinegar and oil,oil and vinegar
+44,5,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
+45,5,fill,Fill27,StrongPref,,,,slip and slide,slide and slip,R,slide and slip,slip and slide
+46,5,fill,Fill28,Neutral,,,,right and left,left and right,R,left and right,right and left
+47,5,targ,ColSiz_4,ColSiz,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+48,5,fill,Fill29,StrongPref,,,,shove and push,push and shove,L,shove and push,push and shove
+49,5,fill,Fill30,StrongPref,,,,truly really,really truly,L,truly really,really truly
+50,5,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
+51,5,fill,Fill32,StrongPref,,,,definitely maybe ,maybe definitely,L,definitely maybe ,maybe definitely
+52,5,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
+53,5,targ,ColSha_5,ColSha,sticker,purple,star-shaped,purple star-shaped sticker,star-shaped purple sticker,R,star-shaped purple sticker,purple star-shaped sticker
+54,5,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
+55,5,targ,ColSiz_2,ColSiz,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+56,5,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
+57,5,fill,Fill35,Neutral,,,,not probably,probably not,L,not probably,probably not
+58,5,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
+59,5,fill,Fill36,StrongPref,,,,away and up,up and away,R,up and away,away and up
+60,5,fill,Fill37,Neutral,,,,throw and catch,catch and throw,L,throw and catch,catch and throw
+61,5,targ,ColMat_3,ColMat,boa,yellow,feather,yellow feather boa,feather yellow boa,L,yellow feather boa,feather yellow boa
+62,5,fill,Fill38,StrongPref,,,,this or that,that or this,R,that or this,this or that
+63,5,fill,Fill39,StrongPref,,,,go and come,come and go,R,come and go,go and come
+64,5,fill,Fill40,StrongPref,,,,hugs and kisses,kisses and hugs,L,hugs and kisses,kisses and hugs
+65,5,targ,ShaMat_4,ShaMat,ball,round,rubber,round rubber ball,rubber round ball,R,rubber round ball,round rubber ball
+66,5,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
+67,5,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
+68,5,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
+69,5,targ,ColSiz_1,ColSiz,house,green,big,green big house,big green house,R,big green house,green big house
+70,5,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
+71,5,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
+72,5,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
+73,5,targ,ShaMat_5,ShaMat,lot,circular,cement,circular cement lot,cement circular lot,L,circular cement lot,cement circular lot
+74,5,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
+75,5,targ,ColMat_5,ColMat,bottle,orange,plastic,orange plastic bottle,plastic orange bottle,L,orange plastic bottle,plastic orange bottle
+76,5,fill,Fill46,StrongPref,,,,never maybe,maybe never,R,maybe never,never maybe
+77,5,fill,Fill47,Neutral,,,,always and forever,forever and always,R,forever and always,always and forever
+78,5,fill,Fill48,StrongPref,,,,pepper and salt,salt and pepper,R,salt and pepper,pepper and salt
+1,6,fill,Fill1,StrongPref,,,,pots and pans,pans and pots,L,pots and pans,pans and pots
+2,6,fill,Fill2,StrongPref,,,,absolutely positively,positively absolutely,R,positively absolutely,absolutely positively
+3,6,targ,ColSiz_3,ColSiz,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+4,6,fill,Fill3,Neutral,,,,laugh and talk,talk and laugh,R,talk and laugh,laugh and talk
+5,6,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
+6,6,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
+7,6,fill,Fill5,StrongPref,,,,above and beyond,beyond and above,L,above and beyond,beyond and above
+8,6,targ,ShaMat_2,ShaMat,table,square,wood,square wood table,wood square table,L,square wood table,wood square table
+9,6,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
+10,6,targ,ColSha_5,ColSha,sticker,purple,star-shaped,purple star-shaped sticker,star-shaped purple sticker,R,star-shaped purple sticker,purple star-shaped sticker
+11,6,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
+12,6,targ,SizMat_2,SizMat,cloak,long,velvet,long velvet cloak,velvet long cloak,L,long velvet cloak,velvet long cloak
+13,6,fill,Fill8,Neutral,,,,should'a would'a,would'a should'a,R,would'a should'a,should'a would'a
+14,6,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
+15,6,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
+16,6,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
+17,6,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
+18,6,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
+19,6,targ,ColSiz_1,ColSiz,house,green,big,green big house,big green house,R,big green house,green big house
+20,6,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
+21,6,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
+22,6,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
+23,6,targ,ShaMat_4,ShaMat,ball,round,rubber,round rubber ball,rubber round ball,R,rubber round ball,round rubber ball
+24,6,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
+25,6,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
+26,6,targ,ColMat_3,ColMat,boa,yellow,feather,yellow feather boa,feather yellow boa,L,yellow feather boa,feather yellow boa
+27,6,fill,Fill15,StrongPref,,,,hide and run,run and hide,L,hide and run,run and hide
+28,6,fill,Fill16,StrongPref,,,,here and now,now and here,L,here and now,now and here
+29,6,fill,Fill17,StrongPref,,,,cats and dogs,dogs and cats,L,cats and dogs,dogs and cats
+30,6,targ,ColMat_5,ColMat,bottle,orange,plastic,orange plastic bottle,plastic orange bottle,L,orange plastic bottle,plastic orange bottle
+31,6,fill,Fill18,Neutral,,,,girls and boys,boys and girls,R,boys and girls,girls and boys
+32,6,fill,Fill19,Neutral,,,,near and far,far and near,L,near and far,far and near
+33,6,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
+34,6,targ,ColSiz_2,ColSiz,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+35,6,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
+36,6,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
+37,6,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
+38,6,targ,ShaMat_1,ShaMat,plate,oval,porcelain,oval porcelain plate,porcelain oval plate,L,oval porcelain plate,porcelain oval plate
+39,6,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
+40,6,targ,SizMat_1,SizMat,socks,little,cotton,little cotton socks,cotton little socks,R,cotton little socks,little cotton socks
+41,6,fill,Fill24,StrongPref,,,,take and give,give and take,L,take and give,give and take
+42,6,fill,Fill25,Neutral,,,,thunder and lightning,lightning and thunder,L,thunder and lightning,lightning and thunder
+43,6,fill,Fill26,StrongPref,,,,oil and vinegar,vinegar and oil,R,vinegar and oil,oil and vinegar
+44,6,targ,ShaMat_3,ShaMat,sculpture,wavy,steel,wavy steel sculpture,steel wavy sculpture,R,steel wavy sculpture,wavy steel sculpture
+45,6,fill,Fill27,StrongPref,,,,slip and slide,slide and slip,R,slide and slip,slip and slide
+46,6,fill,Fill28,Neutral,,,,right and left,left and right,R,left and right,right and left
+47,6,targ,ColMat_4,ColMat,sweater,navy,wool,navy wool sweater,wool navy sweater,R,wool navy sweater,navy wool sweater
+48,6,fill,Fill29,StrongPref,,,,shove and push,push and shove,L,shove and push,push and shove
+49,6,fill,Fill30,StrongPref,,,,truly really,really truly,L,truly really,really truly
+50,6,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
+51,6,fill,Fill32,StrongPref,,,,definitely maybe ,maybe definitely,L,definitely maybe ,maybe definitely
+52,6,targ,SizSha_3,SizSha,staircase,enormous,spiral,enormous spiral staircase,spiral enormous staircase,R,spiral enormous staircase,enormous spiral staircase
+53,6,targ,ShaMat_5,ShaMat,lot,circular,cement,circular cement lot,cement circular lot,L,circular cement lot,cement circular lot
+54,6,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
+55,6,targ,ColMat_2,ColMat,dress,pink,silk,pink silk dress,silk pink dress,R,silk pink dress,pink silk dress
+56,6,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
+57,6,fill,Fill35,Neutral,,,,not probably,probably not,L,not probably,probably not
+58,6,targ,ColSha_1,ColSha,vase,blue,square,blue square vase,square blue vase,R,square blue vase,blue square vase
+59,6,fill,Fill36,StrongPref,,,,away and up,up and away,R,up and away,away and up
+60,6,fill,Fill37,Neutral,,,,throw and catch,catch and throw,L,throw and catch,catch and throw
+61,6,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
+62,6,fill,Fill38,StrongPref,,,,this or that,that or this,R,that or this,this or that
+63,6,fill,Fill39,StrongPref,,,,go and come,come and go,R,come and go,go and come
+64,6,fill,Fill40,StrongPref,,,,hugs and kisses,kisses and hugs,L,hugs and kisses,kisses and hugs
+65,6,targ,ColSiz_4,ColSiz,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+66,6,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
+67,6,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
+68,6,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
+69,6,targ,ColMat_1,ColMat,jacket,scarlet,leather,scarlet leather jacket,leather scarlet jacket,L,scarlet leather jacket,leather scarlet jacket
+70,6,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
+71,6,targ,SizSha_5,SizSha,cake,massive,triangular,massive triangular cake,triangular massive cake,L,massive triangular cake,triangular massive cake
+72,6,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
+73,6,targ,ColSiz_5,ColSiz,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+74,6,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
+75,6,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
+76,6,fill,Fill46,StrongPref,,,,never maybe,maybe never,R,maybe never,never maybe
+77,6,fill,Fill47,Neutral,,,,always and forever,forever and always,R,forever and always,always and forever
+78,6,fill,Fill48,StrongPref,,,,pepper and salt,salt and pepper,R,salt and pepper,pepper and salt
