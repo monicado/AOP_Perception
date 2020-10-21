@@ -153,10 +153,10 @@ Template(
 .log("ItemType", variable.ItemType)
 .log("ListID", variable.ListID)
 .log("ItemID", variable.ItemID)
-.log("FreqType", variable.ConditionID)
+.log("ConditionID", variable.ConditionID)
 .log("WordID", variable.WordID)
-.log("NounClass", variable.AdjFar)
-.log("AnimacyType", variable.AdjClose)
+.log("AdjFar", variable.AdjFar)
+.log("AdjClose", variable.AdjClose)
 )
 
 PennController.SendResults();
