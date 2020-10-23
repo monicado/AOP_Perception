@@ -6,7 +6,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 5,1,targ,ShaMat_2,ShaMat,table,square,wood,square wood table,wood square table,L,square wood table,wood square table
 6,1,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
 7,1,fill,Fill5,StrongPref,,,,above and beyond,beyond and above,L,above and beyond,beyond and above
-8,1,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+8,1,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,L,colossal golden star,golden colossal star
 9,1,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
 10,1,targ,ShaMat_5,ShaMat,lot,circular,cement,circular cement lot,cement circular lot,L,circular cement lot,cement circular lot
 11,1,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
@@ -21,7 +21,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 20,1,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
 21,1,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
 22,1,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
-23,1,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+23,1,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,R,black small shoes,small black shoes
 24,1,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
 25,1,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
 26,1,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
@@ -36,13 +36,13 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 35,1,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
 36,1,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
 37,1,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
-38,1,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,R,big green house,green big house
+38,1,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,L,big green house,green big house
 39,1,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
 40,1,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
 41,1,fill,Fill24,StrongPref,,,,take and give,give and take,L,take and give,give and take
 42,1,fill,Fill25,Neutral,,,,thunder and lightning,lightning and thunder,L,thunder and lightning,lightning and thunder
 43,1,fill,Fill26,StrongPref,,,,oil and vinegar,vinegar and oil,R,vinegar and oil,oil and vinegar
-44,1,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+44,1,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,R,turquoise tiny button,tiny turquoise button
 45,1,fill,Fill27,StrongPref,,,,slip and slide,slide and slip,R,slide and slip,slip and slide
 46,1,fill,Fill28,Neutral,,,,right and left,left and right,R,left and right,right and left
 47,1,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
@@ -51,7 +51,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 50,1,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
 51,1,fill,Fill32,StrongPref,,,,definitely maybe ,maybe definitely,L,definitely maybe ,maybe definitely
 52,1,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
-53,1,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+53,1,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,L,large teal notebook,teal large notebook
 54,1,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
 55,1,targ,SizMat_2,SizMat,cloak,long,velvet,long velvet cloak,velvet long cloak,L,long velvet cloak,velvet long cloak
 56,1,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
@@ -81,16 +81,16 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 2,2,fill,Fill2,StrongPref,,,,absolutely positively,positively absolutely,R,positively absolutely,absolutely positively
 3,2,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
 4,2,fill,Fill3,Neutral,,,,laugh and talk,talk and laugh,R,talk and laugh,laugh and talk
-5,2,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+5,2,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,L,colossal golden star,golden colossal star
 6,2,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
 7,2,fill,Fill5,StrongPref,,,,above and beyond,beyond and above,L,above and beyond,beyond and above
 8,2,targ,ColMat_2,ColMat,dress,pink,silk,pink silk dress,silk pink dress,R,silk pink dress,pink silk dress
 9,2,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
-10,2,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+10,2,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,L,large teal notebook,teal large notebook
 11,2,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
 12,2,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
 13,2,fill,Fill8,Neutral,,,,should'a would'a,would'a should'a,R,would'a should'a,should'a would'a
-14,2,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+14,2,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,R,turquoise tiny button,tiny turquoise button
 15,2,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
 16,2,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
 17,2,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
@@ -134,7 +134,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 55,2,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
 56,2,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
 57,2,fill,Fill35,Neutral,,,,not probably,probably not,L,not probably,probably not
-58,2,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,R,big green house,green big house
+58,2,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,L,big green house,green big house
 59,2,fill,Fill36,StrongPref,,,,away and up,up and away,R,up and away,away and up
 60,2,fill,Fill37,Neutral,,,,throw and catch,catch and throw,L,throw and catch,catch and throw
 61,2,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
@@ -144,7 +144,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 65,2,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
 66,2,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
 67,2,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
-68,2,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+68,2,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,R,black small shoes,small black shoes
 69,2,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
 70,2,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
 71,2,targ,ShaMat_5,ShaMat,lot,circular,cement,circular cement lot,cement circular lot,L,circular cement lot,cement circular lot
@@ -172,10 +172,10 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 15,3,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
 16,3,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
 17,3,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
-18,3,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,R,big green house,green big house
+18,3,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,L,big green house,green big house
 19,3,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
 20,3,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
-21,3,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+21,3,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,R,black small shoes,small black shoes
 22,3,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
 23,3,targ,SizMat_4,SizMat,candle,short,wax,short wax candle,wax short candle,L,short wax candle,wax short candle
 24,3,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
@@ -190,7 +190,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 33,3,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
 34,3,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
 35,3,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
-36,3,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+36,3,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,L,colossal golden star,golden colossal star
 37,3,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
 38,3,targ,SizMat_1,SizMat,socks,little,cotton,little cotton socks,cotton little socks,R,cotton little socks,little cotton socks
 39,3,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
@@ -206,7 +206,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 49,3,fill,Fill30,StrongPref,,,,truly really,really truly,L,truly really,really truly
 50,3,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
 51,3,fill,Fill32,StrongPref,,,,definitely maybe ,maybe definitely,L,definitely maybe ,maybe definitely
-52,3,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+52,3,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,R,turquoise tiny button,tiny turquoise button
 53,3,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
 54,3,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
 55,3,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
@@ -225,7 +225,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 68,3,targ,ColMat_4,ColMat,sweater,navy,wool,navy wool sweater,wool navy sweater,R,wool navy sweater,navy wool sweater
 69,3,targ,ColSha_1,ColSha,vase,blue,square,blue square vase,square blue vase,R,square blue vase,blue square vase
 70,3,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
-71,3,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+71,3,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,L,large teal notebook,teal large notebook
 72,3,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
 73,3,targ,SizSha_5,SizSha,cake,massive,triangular,massive triangular cake,triangular massive cake,L,massive triangular cake,triangular massive cake
 74,3,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
@@ -244,7 +244,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 9,4,fill,Fill6,Neutral,,,,will always,always will,L,will always,always will
 10,4,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
 11,4,fill,Fill7,StrongPref,,,,always already,already always,L,always already,already always
-12,4,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+12,4,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,L,colossal golden star,golden colossal star
 13,4,fill,Fill8,Neutral,,,,should'a would'a,would'a should'a,R,would'a should'a,should'a would'a
 14,4,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
 15,4,fill,Fill9,StrongPref,,,,here nor there,there nor here,L,here nor there,there nor here
@@ -257,7 +257,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 22,4,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
 23,4,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
 24,4,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
-25,4,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+25,4,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,R,black small shoes,small black shoes
 26,4,targ,ShaMat_3,ShaMat,sculpture,wavy,steel,wavy steel sculpture,steel wavy sculpture,R,steel wavy sculpture,wavy steel sculpture
 27,4,fill,Fill15,StrongPref,,,,hide and run,run and hide,L,hide and run,run and hide
 28,4,fill,Fill16,StrongPref,,,,here and now,now and here,L,here and now,now and here
@@ -272,7 +272,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 37,4,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
 38,4,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
 39,4,fill,Fill23,StrongPref,,,,peanut butter and jelly,jelly and peanut butter,R,jelly and peanut butter,peanut butter and jelly
-40,4,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,R,big green house,green big house
+40,4,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,L,big green house,green big house
 41,4,fill,Fill24,StrongPref,,,,take and give,give and take,L,take and give,give and take
 42,4,fill,Fill25,Neutral,,,,thunder and lightning,lightning and thunder,L,thunder and lightning,lightning and thunder
 43,4,fill,Fill26,StrongPref,,,,oil and vinegar,vinegar and oil,R,vinegar and oil,oil and vinegar
@@ -293,7 +293,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 58,4,targ,SizMat_1,SizMat,socks,little,cotton,little cotton socks,cotton little socks,R,cotton little socks,little cotton socks
 59,4,fill,Fill36,StrongPref,,,,away and up,up and away,R,up and away,away and up
 60,4,fill,Fill37,Neutral,,,,throw and catch,catch and throw,L,throw and catch,catch and throw
-61,4,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+61,4,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,R,turquoise tiny button,tiny turquoise button
 62,4,fill,Fill38,StrongPref,,,,this or that,that or this,R,that or this,this or that
 63,4,fill,Fill39,StrongPref,,,,go and come,come and go,R,come and go,go and come
 64,4,fill,Fill40,StrongPref,,,,hugs and kisses,kisses and hugs,L,hugs and kisses,kisses and hugs
@@ -307,7 +307,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 72,4,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
 73,4,targ,ColSha_5,ColSha,sticker,purple,star-shaped,purple star-shaped sticker,star-shaped purple sticker,R,star-shaped purple sticker,purple star-shaped sticker
 74,4,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
-75,4,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+75,4,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,L,large teal notebook,teal large notebook
 76,4,fill,Fill46,StrongPref,,,,never maybe,maybe never,R,maybe never,never maybe
 77,4,fill,Fill47,Neutral,,,,always and forever,forever and always,R,forever and always,always and forever
 78,4,fill,Fill48,StrongPref,,,,pepper and salt,salt and pepper,R,salt and pepper,pepper and salt
@@ -336,11 +336,11 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 23,5,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
 24,5,fill,Fill14,Neutral,,,,pencil and paper,paper and pencil,L,pencil and paper,paper and pencil
 25,5,targ,ColMat_4,ColMat,sweater,navy,wool,navy wool sweater,wool navy sweater,R,wool navy sweater,navy wool sweater
-26,5,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+26,5,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,R,turquoise tiny button,tiny turquoise button
 27,5,fill,Fill15,StrongPref,,,,hide and run,run and hide,L,hide and run,run and hide
 28,5,fill,Fill16,StrongPref,,,,here and now,now and here,L,here and now,now and here
 29,5,fill,Fill17,StrongPref,,,,cats and dogs,dogs and cats,L,cats and dogs,dogs and cats
-30,5,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+30,5,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,L,large teal notebook,teal large notebook
 31,5,fill,Fill18,Neutral,,,,girls and boys,boys and girls,R,boys and girls,girls and boys
 32,5,fill,Fill19,Neutral,,,,near and far,far and near,L,near and far,far and near
 33,5,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
@@ -357,7 +357,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 44,5,targ,ColSha_3,ColSha,strawberry,red,heart-shaped,red heart-shaped strawberry,heart-shaped red strawberry,R,heart-shaped red strawberry,red heart-shaped strawberry
 45,5,fill,Fill27,StrongPref,,,,slip and slide,slide and slip,R,slide and slip,slip and slide
 46,5,fill,Fill28,Neutral,,,,right and left,left and right,R,left and right,right and left
-47,5,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+47,5,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,R,black small shoes,small black shoes
 48,5,fill,Fill29,StrongPref,,,,shove and push,push and shove,L,shove and push,push and shove
 49,5,fill,Fill30,StrongPref,,,,truly really,really truly,L,truly really,really truly
 50,5,fill,Fill31,Neutral,,,,danced and sang,sang and danced,R,sang and danced,danced and sang
@@ -365,7 +365,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 52,5,targ,SizMat_3,SizMat,bucket,gigantic,metal,gigantic metal bucket,metal gigantic bucket,L,gigantic metal bucket,metal gigantic bucket
 53,5,targ,ColSha_5,ColSha,sticker,purple,star-shaped,purple star-shaped sticker,star-shaped purple sticker,R,star-shaped purple sticker,purple star-shaped sticker
 54,5,fill,Fill33,StrongPref,,,,response and call,call and response,L,response and call,call and response
-55,5,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+55,5,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,L,colossal golden star,golden colossal star
 56,5,fill,Fill34,StrongPref,,,,back and forth,forth and back,L,back and forth,forth and back
 57,5,fill,Fill35,Neutral,,,,not probably,probably not,L,not probably,probably not
 58,5,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
@@ -379,7 +379,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 66,5,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
 67,5,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
 68,5,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
-69,5,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,R,big green house,green big house
+69,5,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,L,big green house,green big house
 70,5,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
 71,5,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
 72,5,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
@@ -391,7 +391,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 78,5,fill,Fill48,StrongPref,,,,pepper and salt,salt and pepper,R,salt and pepper,pepper and salt
 1,6,fill,Fill1,StrongPref,,,,pots and pans,pans and pots,L,pots and pans,pans and pots
 2,6,fill,Fill2,StrongPref,,,,absolutely positively,positively absolutely,R,positively absolutely,absolutely positively
-3,6,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,L,turquoise tiny button,tiny turquoise button
+3,6,targ,SizCol_3,SizCol,button,turquoise,tiny,turquoise tiny button,tiny turquoise button,R,turquoise tiny button,tiny turquoise button
 4,6,fill,Fill3,Neutral,,,,laugh and talk,talk and laugh,R,talk and laugh,laugh and talk
 5,6,targ,ColSha_2,ColSha,rock,gray,egg-shaped,gray egg-shaped rock,egg-shaped gray rock,L,gray egg-shaped rock,egg-shaped gray rock
 6,6,fill,Fill4,StrongPref,,,,bees and birds,birds and bees,R,birds and bees,bees and birds
@@ -407,7 +407,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 16,6,fill,Fill10,StrongPref,,,,the egg or the chicken,the chicken or the egg,R,the chicken or the egg,the egg or the chicken
 17,6,fill,Fill11,StrongPref,,,,yes or no,no or yes,R,no or yes,yes or no
 18,6,targ,SizSha_1,SizSha,container,wide,flat,wide flat container,flat wide container,L,wide flat container,flat wide container
-19,6,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,R,big green house,green big house
+19,6,targ,SizCol_1,SizCol,house,green,big,green big house,big green house,L,big green house,green big house
 20,6,fill,Fill12,Neutral,,,,can frequently,frequently can,L,can frequently,frequently can
 21,6,targ,SizSha_4,SizSha,doorway,narrow,arched,narrow arched doorway,arched narrow doorway,R,arched narrow doorway,narrow arched doorway
 22,6,fill,Fill13,StrongPref,,,,out and down,down and out,L,out and down,down and out
@@ -422,7 +422,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 31,6,fill,Fill18,Neutral,,,,girls and boys,boys and girls,R,boys and girls,girls and boys
 32,6,fill,Fill19,Neutral,,,,near and far,far and near,L,near and far,far and near
 33,6,fill,Fill20,StrongPref,,,,hide and seek,seek and hide,R,seek and hide,hide and seek
-34,6,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,R,colossal golden star,golden colossal star
+34,6,targ,SizCol_2,SizCol,star,golden,colossal,golden colossal star,colossal golden star,L,colossal golden star,golden colossal star
 35,6,fill,Fill21,StrongPref,,,,ends and odds,odds and ends,L,ends and odds,odds and ends
 36,6,targ,SizSha_2,SizSha,bridge,giant,curved,giant curved bridge,curved giant bridge,R,curved giant bridge,giant curved bridge
 37,6,fill,Fill22,Neutral,,,,potatoes and peas,peas and potatoes,R,peas and potatoes,potatoes and peas
@@ -453,7 +453,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 62,6,fill,Fill38,StrongPref,,,,this or that,that or this,R,that or this,this or that
 63,6,fill,Fill39,StrongPref,,,,go and come,come and go,R,come and go,go and come
 64,6,fill,Fill40,StrongPref,,,,hugs and kisses,kisses and hugs,L,hugs and kisses,kisses and hugs
-65,6,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,L,black small shoes,small black shoes
+65,6,targ,SizCol_4,SizCol,shoes,black,small,black small shoes,small black shoes,R,black small shoes,small black shoes
 66,6,fill,Fill41,StrongPref,,,,live and learn,learn and live,R,learn and live,live and learn
 67,6,fill,Fill42,Neutral,,,,limes or lemons,lemons or limes,L,limes or lemons,lemons or limes
 68,6,targ,ColSha_4,ColSha,eraser,white,rectangular,white rectangular eraser,rectangular white eraser,L,white rectangular eraser,rectangular white eraser
@@ -461,7 +461,7 @@ ItemNumb,ListID,ItemType,ItemID,ConditionID,WordID,AdjFar,AdjClose,Order1,Order2
 70,6,fill,Fill43,StrongPref,,,,chips and fish,fish and chips,R,fish and chips,chips and fish
 71,6,targ,SizSha_5,SizSha,cake,massive,triangular,massive triangular cake,triangular massive cake,L,massive triangular cake,triangular massive cake
 72,6,fill,Fill44,StrongPref,,,,could maybe,maybe could,R,maybe could,could maybe
-73,6,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,R,large teal notebook,teal large notebook
+73,6,targ,SizCol_5,SizCol,notebook,teal,large,teal large notebook,large teal notebook,L,large teal notebook,teal large notebook
 74,6,fill,Fill45,Neutral,,,,hop and jump,jump and hop,R,jump and hop,hop and jump
 75,6,targ,SizMat_5,SizMat,box,huge,cardboard,huge cardboard box,cardboard huge box,R,cardboard huge box,huge cardboard box
 76,6,fill,Fill46,StrongPref,,,,never maybe,maybe never,R,maybe never,never maybe
